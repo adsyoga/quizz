@@ -4,3 +4,13 @@ permalink: /ads.txt
 ---
 
 google.com, pub-2884555402353266, DIRECT, f08c47fec0942fa0
+betweendigital.com, 44898, DIRECT
+vidoomy.com, 9148331, RESELLER 
+contextweb.com, 562827, RESELLER, 89ff185a4c4e857c
+smartadserver.com, 4467, RESELLER
+pubmatic.com, 159668, RESELLER, 5d62403b186f2ace
+lijit.com, 273644, RESELLER, fafdf38b16bf6b2b
+richaudience.com, 4AoWPWXbVu, RESELLER
+onetag.com, 5d1628750185ace, RESELLER
+lunamedia.io, bfacf5e017bb11edb41173b0ca2c748c, RESELLER, 524ecb396915caaf
+e-planning.net, 949b688810cb7439, RESELLER, c1ba615865ed87b2
