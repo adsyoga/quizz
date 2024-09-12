@@ -39,6 +39,19 @@
         }
     </script>
     <script>
+        // Fungsi untuk memeriksa apakah halaman di-refresh
+        function redirectOnRefresh() {
+            // Memeriksa apakah halaman dimuat dari cache
+            if (performance.navigation.type === 1) {
+                // Mengarahkan ke halaman beranda jika di-refresh
+                window.location.href = '/'; // Ganti '/' dengan path ke halaman beranda Anda
+            }
+        }
+
+        // Memanggil fungsi ketika halaman dimuat
+        window.onload = redirectOnRefresh;
+    </script>
+    <script>
         const QUIZ_CONFIG = {
             plf: "pubp",
             language: "en",
