@@ -9,3 +9,4 @@ richaudience.com, 4AoWPWXbVu, RESELLER
 onetag.com, 5d1628750185ace, RESELLER
 lunamedia.io, bfacf5e017bb11edb41173b0ca2c748c, RESELLER, 524ecb396915caaf
 e-planning.net, 949b688810cb7439, RESELLER, c1ba615865ed87b2
+voxexchange.io, 66c5c1177bc72f3a68df1c3d, DIRECT
