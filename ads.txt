@@ -1,4 +1,5 @@
 google.com, pub-2884555402353266, DIRECT, f08c47fec0942fa0
+google.com, pub-6504262744778909, DIRECT, f08c47fec0942fa0
 betweendigital.com, 44898, DIRECT
 vidoomy.com, 9148331, RESELLER 
 contextweb.com, 562827, RESELLER, 89ff185a4c4e857c
