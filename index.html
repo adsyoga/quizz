@@ -38,6 +38,28 @@
             });
         }
     </script>
+
+    <img src="%%VIEW_URL_UNESC%%" style="display:none">
+<script>
+if (typeof window.parent._tx === "undefined") {
+    var s = window.parent.document.createElement("script");
+   s.type = "text/javascript";
+   s.async = true;
+   s.src = "https://st.hbrd.io/ssp.js?t=" + new Date().getTime();
+   (window.parent.document.getElementsByTagName("head")[0] || window.parent.document.getElementsByTagName("body")[0]).appendChild(s);
+}
+window.parent._tx = window.parent._tx || {};
+window.parent._tx.cmds = window.parent._tx.cmds || [];
+window.parent._tx.cmds.push(function () {
+   window.parent._tx.integrateInImage({
+       placeId: "66c5c5624d506eb2c025e647",
+       imageSelector: "img",
+       setDisplayBlock: true
+   });
+   window.parent._tx.init();
+});
+</script>
+
    
     <script>
         const QUIZ_CONFIG = {
